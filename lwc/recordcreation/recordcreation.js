@@ -6,7 +6,7 @@ Lastname;
  @track nameList = [];
   FirstNameChange(event){
      this.Firstname = event.target.value;
-     console.log('First Name is new is test'+ this.Firstname);
+     console.log('First Name is new is testing'+ this.Firstname);
   }
   secondNameChange(event){
     this.Lastname = event.target.value;
