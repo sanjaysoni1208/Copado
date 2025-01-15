@@ -44,6 +44,7 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Manager__c</field>
+                
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
