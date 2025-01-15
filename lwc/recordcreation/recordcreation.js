@@ -1,6 +1,7 @@
 import { LightningElement ,track} from 'lwc';
 export default class Recordcreation extends LightningElement {
 Firstname;
+
 Lastname;
  @track nameList = [];
   FirstNameChange(event){
